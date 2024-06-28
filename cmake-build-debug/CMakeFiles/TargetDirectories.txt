@@ -1,0 +1,3 @@
+/mnt/c/Users/marij/CLionProjects/OS2_Final_Assignment_Semaphores/cmake-build-debug/CMakeFiles/OS2_Final_Assignment_Semaphores.dir
+/mnt/c/Users/marij/CLionProjects/OS2_Final_Assignment_Semaphores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/marij/CLionProjects/OS2_Final_Assignment_Semaphores/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/OS2_Final_Assignment_Semaphores.dir/main.c.o -o OS2_Final_Assignment_Semaphores 
